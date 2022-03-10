@@ -1,4 +1,4 @@
-#include  <studioh>
+#include  <stdioh>
 /*
 * main - entry point
 *
