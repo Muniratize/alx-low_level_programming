@@ -1,1 +1,1 @@
-_putchar - function that prints characters to the standard output
+int_putchar(char c);
